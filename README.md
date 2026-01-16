@@ -29,5 +29,5 @@ PCB layout optimized for high current routing, noise isolation, and serviceabili
 <br>
 
 ## Project Status
-This board is part of an ongoing rover electrical system and continues to evolve alongside firmware and subsystem integration.
+This board is currently undergoing a testing campaign
 <br>
