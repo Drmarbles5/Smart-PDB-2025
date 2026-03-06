@@ -29,5 +29,5 @@ PCB layout optimized for high current routing, noise isolation, and serviceabili
 <br>
 
 ## Project Status
-This board is currently undergoing a testing campaign
+This board is currently implimented in our competition rover, with Rev. 2 being designed to reduce size and add the capablity for a second CAN bus.
 <br>
